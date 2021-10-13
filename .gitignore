@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+build
+src/build
+example/build
+
+.vscode
+.cache
